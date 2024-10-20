@@ -2,7 +2,7 @@
 <h3>Programming Languages</h3>
 <ul><li>Python</li><li>Java</li></ul>
 <h3>Dream College</h3>
-<ul><li>McGill</li><li></li>McGill<li>uToronto</li></ul>
+<ul><li>McGill</li><li>uToronto</li><li>uManitoba</li></ul>
 <h3>Fluent In (2 languages)</h3>
 <ul><li>English (Mostly)</li></ul>
 <ul><li>Arabic (Kind Of)</li></ul>
